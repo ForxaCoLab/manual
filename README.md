@@ -2,6 +2,8 @@
 
 ## Repositorio de proba no que poderás aprender máis sobre o funcionamento da forxa dun xeito práctico
 
+![Banner Co-Lab](http://95.85.51.21/Co-Lab/proba/raw/master/CoLab_380x250.png)
+
 ### README.md, este arquivo
 
 Este arquivo chámase README.md. É o arquivo inicial de cada un dos repositorios que se creen na forxa. Se queres que o contido deste arquivo apareza na pantalla principal ao seleccionar o teu repositorio na interfaz o arquivo deberá chamarse README.md. "READ ME" é a traducción ao inglés de "leeme", polo que sabemos xa polo seu nome que será un arquivo de lectura recomendada ou incluso obligatorio para comprender o alcance ou contidos do repositorio. Os arquivos ca extensión "md" son arquivos Markdown, unha linguaxe que se usa para darlle formato aos arquivos de texto dun xeito sinxelo e compatible ca linguaxe HTML, o estandard na web. Podes saber máis sobre a linguaxe Markdown [nesta ligazón](https://es.wikipedia.org/wiki/Markdown). Existen varias versións da linguaxe Markdown, ou sintaxis, pero nós usaremos a sintaxis que usa Github e que podes consultar nesta páxina: https://guides.github.com/features/mastering-markdown/
