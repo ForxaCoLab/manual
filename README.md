@@ -1,6 +1,6 @@
 # Manual da Forxa
 
-![Banner Co-Lab](http://forxa.colab.coruna.gal/Co-Lab/manual/raw/master/imaxes/CoLab_380x250.png)
+![](http://forxa.colab.coruna.gal/Co-Lab/manual/raw/master/imaxes/CoLab_380x250.png)
 
 ## Resumo
 
