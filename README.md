@@ -2,7 +2,7 @@
 
 ## Neste repositorio poderás aprender máis sobre o funcionamento da forxa dun xeito práctico
 
-![Banner Co-Lab](http://95.85.51.21/Co-Lab/manual/raw/master/CoLab_380x250.png)
+![Banner Co-Lab](http://forxa.colab.coruna.gal/Co-Lab/manual/imaxes/raw/master/CoLab_380x250.png)
 
 ### README.md, este arquivo
 
