@@ -10,8 +10,8 @@ Neste repositorio poderás aprender máis sobre o funcionamento da forxa dun xei
 * [Que é un repositorio](http://forxa.colab.coruna.gal/Co-Lab/manual/src/master/repositorios.md)
 * [Como facer unha achega](http://forxa.colab.coruna.gal/Co-Lab/manual/src/master/achegas.md)
 * [Rexistrarte na forxa](http://forxa.colab.coruna.gal/Co-Lab/manual/src/master/usuarias.md)
-* etc
-* etc
+* [Clonar un repositorio](http://forxa.colab.coruna.gal/Co-Lab/manual/src/master/clonar.md)
+* [Facer un **pull request**](http://forxa.colab.coruna.gal/Co-Lab/manual/src/master/pull_request.md)
 
 ## A forxa
 
