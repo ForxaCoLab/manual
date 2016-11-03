@@ -6,8 +6,8 @@
 
 Neste repositorio poderás aprender máis sobre o funcionamento da forxa dun xeito práctico. A información do manual irase actualizando segundo a forxa crecendo. A información básica abordará as cuestións elementais para o seu uso básico, como:
 
-* Crear repositorios
-* Que é un repositorio
+* [Explorar a forxa](http://forxa.colab.coruna.gal/Co-Lab/manual/src/master/explorar.md)
+* [Que é un repositorio](http://forxa.colab.coruna.gal/Co-Lab/manual/src/master/repositorios.md)
 * Como facer unha achega
 * etc
 * etc
