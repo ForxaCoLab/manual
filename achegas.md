@@ -1,5 +1,5 @@
 # As achegas
-Se cadra estás pensando que todo isto de Git é moi complexo e que non ten sentido usar a forxa para xestionar a documentación se podemos usar unha ferramenta convencional para almacenar arquivos na nube como Dropbox, Owncloud ou Google Drive. Pois ben, a potencia de Git baséase na capacidade de aceptar e integrar contribucións dun xeito transparente e eficaz, poidendo identificar a autoría de cada unha das achegas e ter un control total do estado do repositorio, en cada unha das súas ramas.
+Seguramente estás pensando que todo isto de Git é moi complexo e que non ten sentido usar a forxa para xestionar a documentación se podemos usar unha ferramenta convencional para almacenar arquivos na nube como Dropbox, Owncloud ou Google Drive. Pois ben, a potencia de Git baséase na capacidade de aceptar e integrar contribucións dun xeito transparente e eficaz, poidendo identificar a autoría de cada unha das achegas e ter un control total do estado do repositorio, en cada unha das súas ramas.
 
 ## Tipos de achegas
 
