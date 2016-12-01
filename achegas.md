@@ -5,7 +5,7 @@ Seguramente estás pensando que todo isto de Git é moi complexo e que non ten s
 
 ### Se teño acceso ao repositorio
 
-Se o teu usuario ten acceso de escritura no repositorio, ben porque eres a propietaria ou ben porque asignáronte o rol de colaboradora, podes facer as achegas directamente editando o arquivo que queres modificar:
+Se o teu usuario ten acceso de escritura no repositorio, ben porque eres a propietaria ou ben porque asignáronte o rol de colaboradora, podes facer as achegas directamente [editando o arquivo](http://forxa.colab.coruna.gal/Co-Lab/manual/src/master/editar.md) que queres modificar:
 
 ![](http://forxa.colab.coruna.gal/Co-Lab/manual/raw/master/imaxes/editar.png)
 
