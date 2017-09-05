@@ -16,7 +16,7 @@ Neste repositorio poderás aprender máis sobre o funcionamento da forxa dun xei
 
 ## A forxa
 
-A forxa está deseñada usando un software chamado Gogs, que ben sendo, segundo os seus desenvolvedores **un servicio Git sinxelo de usar**. Podes consultar a documentación orixinal de Gogs e descargalo para a súa instalación no teu propio servidor [nesta ligazón](https://github.com/gogits/gogs). A nosa adaptación é tamén de código aberto e podes contribuir ao seu desenvolvemento libremente no seu repositorio público: https://github.com/ForxaCoLab/forxacolab. Cada repositorio desta forxa terá un clon actualizado en tempo real en Github, para darlle visibilidade aos proxectos e garantir a sostenibilidade da forxa.
+A forxa está deseñada usando un software chamado Gogs, que ben sendo, segundo os seus desenvolvedores **un servicio Git sinxelo de usar**. Podes consultar a documentación orixinal de Gogs e descargalo para a súa instalación no teu propio servidor [nesta ligazón](https://github.com/gogits/gogs). A nosa adaptación é tamén de código aberto e podes contribuir ao seu desenvolvemento libremente no seu repositorio público: https://github.com/ForxaCoLab/forxa. Cada repositorio desta forxa terá un clon actualizado en tempo real en Github, para darlle visibilidade aos proxectos e garantir a sostenibilidade da forxa.
 
 ### Gogs
 
